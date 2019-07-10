@@ -1,0 +1,29 @@
+/* CSS Document */
+.box{width:400px;
+	margin-left:auto;/*模块居中*/
+	margin-right:auto;
+	margin-top:50px;}
+.inputs{border:1px #ccc solid;
+	outline:none;
+	width:260px;
+	height:30px;
+	line-height:30px;/*文字的上下居中*/
+	padding-left:10px;
+	padding-right:10px;
+	border-radius:5px/*圆角*/
+	transition:all 0.2s;/*过渡，0.2s过渡时间*/}
+.inputs:focus{/*聚焦*/
+	border-color:#f00;
+	width:280px;}
+.btn{width:50px;
+	height:30px;
+	background:#F60;
+	border:1px #f60 solid;
+	color:#fff;
+	font-size:20px;
+	color:#000;
+	font-weight:800;
+	cursor:pointer;/*鼠标，手势*/
+	transition:0.2s;/*过渡，0.2s过渡时间*/}
+.btn:hover{background:#f00;}
+.box p{ margin-bottom:10px;}

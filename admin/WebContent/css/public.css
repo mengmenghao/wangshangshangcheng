@@ -1,0 +1,11 @@
+/* CSS Document */
+*{ margin:0px; padding:0px; margin-left:auto; margin-right:auto;}/*所有标签均执行此代码*/
+.kk{width:320px; background:#FFF; border:#666 1px solid; color:#666; border-radius:10px; line-height:35px; padding-left:15px; margin-top:30px;}
+.clears{clear:both; height:0px; line-height:0px; overflow:hidden; font-size:0px;}/*清除浮动*/
+.left{ float:left;}/*左浮动*/
+.right{ float:right;}/*右浮动*/
+a{ text-decoration:none;}/*清除a标签下划线*/
+ul,li,ol{ list-style:none}/*清除列表样式*/
+img{border:none;}
+body{ font-size:14px;font-family:"微软雅黑"}
+
