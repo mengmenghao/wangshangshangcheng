@@ -6,13 +6,13 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
+<!-- 123 -->
 <body>
 <style type="text/css">
 .STYLE1 {
 	FONT-WEIGHT: bold; COLOR: #0099ff
 }
 </style>
-
 </HEAD>
 <BODY>
 <form action="AddGoodsServlet" enctype="multipart/form-data" id="form" name="form" method="post" >
