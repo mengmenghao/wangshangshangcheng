@@ -6,7 +6,6 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<!-- 123 -->
 <body>
 <style type="text/css">
 .STYLE1 {
